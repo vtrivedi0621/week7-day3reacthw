@@ -1,0 +1,77 @@
+.main-container {
+    height: 520px;
+    width: 325px;
+    border: solid 3px black;
+    margin: 2px 2px 2px 2px;
+    margin-left: 50px;
+}
+.homepage {
+    height: 505px;
+    width: 310px;
+    border: solid 5px orange;
+    margin: 2px 2px 2px 2px;
+    /* //margin-left: 50px; */
+}
+
+
+.header {
+    height: 30px;
+    width: 300px;
+    border: solid 2px blue;
+    text-align: center;
+    font-size: 13px;
+    padding-bottom: 25px;
+    margin: 2px 2px 2px 2px;
+    
+    
+}
+
+.searchbar {
+    height: 30px;
+    width: 300px;
+    border: solid 2px blue;
+    text-align: center;
+    margin: 2px 2px 2px 2px;
+    
+    
+}
+
+.inputtext {
+    height: 23px;
+    width: 290px;
+}
+
+.employeeList {
+    height: 400px;
+    width: 300px;
+    border: solid 2px red;
+    margin: 2px 2px 2px 2px;
+    
+}
+
+.employee {
+    padding-left: 50px;
+    margin-top: -40px;
+}
+
+.img {
+width: 40px;
+/* display: inline-block; */
+margin-top: 10px;
+    
+}
+
+.designation{
+    font-size: 10px;
+    
+}
+
+.employeelistitem {
+    height: 60px;
+    width: 285px;
+    border: solid 2px pink;
+    margin: 2px 2px 2px 2px;
+    padding-left: 5px
+    
+    
+}
